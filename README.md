@@ -21,7 +21,7 @@ phenotypic dataset of GSE42568.
 pred_accuracy.csv: Filtered and formatted dataset to evaluate the predictive accuracy of ten
 HubGs from these three datasets.
 
-Files in /R_Code:
+Files in /run_code:
 
 All source code for principal component analysis (PCA), cluster dendrogram (CD),
 differentially expressed genes (DEGs) identification, weighted gene co-expression network
