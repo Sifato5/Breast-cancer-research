@@ -8,6 +8,7 @@ RStudio/2024.12.0+467
 File Descriptions
 
 Files in /datasets
+
 GSE42568.csv, GSE61304.csv, and GSE29431.csv: Processed breast cancer gene expression
 datasets in CSV format for differential gene expression analysis.
 missing_free_phenoData_GSE42568.csv: Phenotypic dataset after excluding samples with
@@ -18,6 +19,7 @@ pred_accuracy.csv: Filtered and formatted dataset to evaluate the predictive acc
 HubGs from these three datasets.
 
 Files in /R_Code
+
 All source code for principal component analysis (PCA), cluster dendrogram (CD),
 differentially expressed genes (DEGs) identification, weighted gene co-expression network
 analysis (WGCNA), and predictive accuracy analysis of hub genes (HubGs) through SVM, RF,
