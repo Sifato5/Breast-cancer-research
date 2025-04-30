@@ -1,8 +1,8 @@
 # Breast-cancer-research
 Identification of Hub Genes, Pathways, and Potential Drug Repurposing for Breast Cancer Through WGCNA and Integrative Bioinformatics Analysis
 
-Dependencies
-R/4.4.2
+Dependencies:                                                 
+R/4.4.2                                              
 RStudio/2024.12.0+467
 
 File Descriptions
