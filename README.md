@@ -7,7 +7,7 @@ RStudio/2024.12.0+467
 
 File Descriptions
 
-Files in /datasets
+Files in /datasets:
 
 Due to large datasets, datasets are available at https://github.com/Sifato5/Breast-cancer-research/commit/9e9f7ec39f63cf3069264d0512bb340bdfcb74c8
 
@@ -23,7 +23,7 @@ phenotypic dataset of GSE42568.
 pred_accuracy.csv: Filtered and formatted dataset to evaluate the predictive accuracy of ten
 HubGs from these three datasets.
 
-Files in /R_Code
+Files in /R_Code:
 
 All source code for principal component analysis (PCA), cluster dendrogram (CD),
 differentially expressed genes (DEGs) identification, weighted gene co-expression network
